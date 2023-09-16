@@ -1,0 +1,26 @@
+#navbar{
+    height:90px;
+    background-color: rgb(43, 125, 231);
+    margin-top: -20px;
+    color:white;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: serif;
+}
+.Naval{
+    font-size: larger;
+    margin-top: -40px;
+    right:40px;
+    position: absolute;
+    list-style: none;
+    display: flex;
+}
+.no1{
+    margin-right: 10px;
+}
+.homepage{
+    height:400px;
+    background-size: contain;
+    background-repeat:repeat;
+    background-image: url('assets/images/robot.jpeg');
+}
